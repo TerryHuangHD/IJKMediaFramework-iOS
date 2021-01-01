@@ -1,6 +1,6 @@
 ![IJKMediaFramework](https://raw.githubusercontent.com/TerryHuangHD/IJKMediaFramework-iOS/master/IJKMediaFramework.png)
 
-iOS video player framework based on FFmpeg with MediaCodec, VideoToolbox support
+iOS video player framework based on FFmpeg 4 with MediaCodec, VideoToolbox and OpenSSL support
 
 # Install
 
