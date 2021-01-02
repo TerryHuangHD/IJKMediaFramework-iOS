@@ -1,0 +1,4 @@
+IJKMediaFramework.framework/Info.plist filter=lfs diff=lfs merge=lfs -text
+IJKMediaFramework.framework/Modules filter=lfs diff=lfs merge=lfs -text
+IJKMediaFramework.framework/Headers filter=lfs diff=lfs merge=lfs -text
+IJKMediaFramework.framework/IJKMediaFramework filter=lfs diff=lfs merge=lfs -text
